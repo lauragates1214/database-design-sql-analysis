@@ -1,4 +1,4 @@
-**Labs and Problem Sets for SQL**<br>
+**Problem Set for SQL**<br>
 *from Harvard's CS50 Introduction to Computer Science course - Professional Certificate*
 <br><br>
 This repository contains the labs and a selection of problem sets for SQL that I've completed as part of my professional certificate program through Harvardx's CS50: Introduction to Computer Science.
