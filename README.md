@@ -1,4 +1,4 @@
-**Problem Set for SQL**<br>
+**Selection of SQLite queries and schemas from SQL problem set**<br>
 *from Harvard's CS50 Introduction to Computer Science course - Professional Certificate*
 <br><br>
 This repository contains a selection from the problem set for SQL that I've completed as part of my professional certificate program through Harvardx's CS50: Introduction to Computer Science.
